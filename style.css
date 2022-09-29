@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    background-color: #ffffff;
+    text-align: center;
+}
+form{
+    color:rgb(45, 15, 143);
+} 
+#p1{
+    color:rgb(16, 3, 3);font-size:30px;
+}
+div{
+    background-image:url('fi.jpg');
+}
